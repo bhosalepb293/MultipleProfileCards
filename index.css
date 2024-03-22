@@ -1,0 +1,25 @@
+#sec{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+#cards{
+    height: 400px;
+    width: 300px;
+    background: linear-gradient(teal, pink);
+    text-align: center;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    
+
+}
+#img1{
+    border-radius: 50%;
+}
